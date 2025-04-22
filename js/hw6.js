@@ -71,10 +71,13 @@ while (numberes <= 20) {
     if (numberes % 3 === 0) {
         numberes++;
         continue;
+       
     }
     console.log(numberes);
     numberes++;
 }
+
+
 
 
 
